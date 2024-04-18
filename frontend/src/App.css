@@ -1,0 +1,23 @@
+
+
+/* Estilos para el menú de navegación */
+.menu {
+  background-color: #27ABCB; /* Color de fondo */
+  padding: 10px 20px; /* Espaciado interno */
+}
+
+.menu ul {
+  list-style-type: none; /* Elimina los estilos de lista predeterminados */
+  margin: 0;
+  padding: 0;
+}
+
+.menu ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.menu ul li a {
+  color: #fff; /* Color del texto */
+  text-decoration: none; /* Elimina la decoración de enlace predeterminada */
+}
